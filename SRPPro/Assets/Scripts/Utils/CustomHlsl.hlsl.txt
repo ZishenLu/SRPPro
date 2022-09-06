@@ -1,0 +1,4 @@
+#ifndef CUSTOM_#HLSL#_INCLUDE
+#define CUSTOM_#HLSL#_INCLUDE
+
+#endif
